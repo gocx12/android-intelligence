@@ -19,6 +19,6 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "power_assitance"
+rootProject.name = "Android Intelligence"
 include(":app")
  
